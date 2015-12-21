@@ -1,0 +1,28 @@
+name: junipersmithdesign
+favicon: null
+layout_spectrum: 0.42504530446603894
+typography_spectrum: 0.7628510377835482
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6381944369059056
+  lightness: 0.7415148662403226
+  saturation: 0.6230479371733963
+  rhythmicContrast: 0.14230273617431521
+purpose: []
