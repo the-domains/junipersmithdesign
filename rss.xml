@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[junipersmithdesign]]></title>
+        <description><![CDATA[junipersmithdesign]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 04 Jan 2016 07:48:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Simple Limb Iniative]]></title>
+            <description><![CDATA[<article><h1>Simple Limb Iniative</h1><p>$30 Prosthetic</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c590d72e0148d9711eb6ac2c8803b9cd31a61b3.jpg"></article>]]></description>
+            <link>undefinedsimple-limb-iniative/index.html</link>
+            <guid isPermaLink="false">4698059e-e2d8-412e-b017-216e6f404da5</guid>
+            <pubDate>Mon, 04 Jan 2016 07:48:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
