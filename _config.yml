@@ -1,6 +1,6 @@
 name: junipersmithdesign
 favicon: null
-layout_spectrum: 0.9941
+layout_spectrum: 0.73831
 typography_spectrum: 0.09371
 title: Design
 cta:
@@ -22,7 +22,7 @@ color:
     - '#161616'
     - '#f49c73'
     - '#decbae'
-  brandStrength: 1
+  brandStrength: 0.5
   lightness: 0.5
   saturation: 0.3125
   rhythmicContrast: 0.75
